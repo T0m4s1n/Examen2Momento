@@ -176,7 +176,7 @@ export default defineComponent({
   padding: 1rem;
   margin-bottom: 1rem;
   font-family: "Poppins", sans-serif;
-  width: 20rem;
+  width: 15rem;
   height: 20rem;
 }
 
